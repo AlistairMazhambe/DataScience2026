@@ -1,0 +1,11 @@
+# Environments
+.venv/
+
+# Data Files (The Heavy Stuff)
+*.csv
+*.csv.gz
+Data/
+
+# Jupyter/Python Junk
+__pycache__/
+.ipynb_checkpoints/
